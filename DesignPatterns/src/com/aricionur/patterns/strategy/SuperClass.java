@@ -14,4 +14,12 @@ public class SuperClass {
 		typeTwoBehavior.doTypeTwoBehavior();
 	}
 
+	public void setTypeOneBehavior(TypeOneBehavior typeOneBehavior) {
+		this.typeOneBehavior = typeOneBehavior;
+	}
+	
+	public void setTypeTwoBehavior(TypeTwoBehavior typeTwoBehavior) {
+		this.typeTwoBehavior = typeTwoBehavior;
+	}
+	
 }
