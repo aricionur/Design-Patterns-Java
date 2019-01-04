@@ -1,3 +1,3 @@
 # DesignPatterns
   References:
-  - Head First Design Patterns
+  - Head First Design Patterns : A Brain-Friendly Guide
