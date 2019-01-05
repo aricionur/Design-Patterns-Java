@@ -2,10 +2,10 @@ package com.aricionur.patterns.Iterator;
 
 public class Client {
 
-	ConcreteAggragate aggragateOne;
-	ConcreteAggragateTwo aggragateTwo;
+	Aggragate aggragateOne;
+	Aggragate aggragateTwo;
 
-	public Client(ConcreteAggragate aggragateOne, ConcreteAggragateTwo aggragateTwo) {
+	public Client(Aggragate aggragateOne, Aggragate aggragateTwo) {
 		this.aggragateOne = aggragateOne;
 		this.aggragateTwo = aggragateTwo;
 	}
