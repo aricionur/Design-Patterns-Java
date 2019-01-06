@@ -1,4 +1,4 @@
-package com.aricionur.patterns.proxy;
+package com.aricionur.patterns.proxy.virtual;
 
 public class Main {
 
